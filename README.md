@@ -22,7 +22,7 @@ Here are some of the web-based financial data applications I have developed:
 * **Live Site:** [https://host1.hedge-analytics.com/DTCCDashboard/](https://host1.hedge-analytics.com/DTCCDashboard/)
 * **Description:** A daily dashboard presenting a snapshot of the DTCC's General Collateral Finance (GCF) repo market. The tool displays data on transaction volumes, rates, and other key metrics for both GCF and tri-party repo, providing a comprehensive overview of daily activity in this critical funding market.
 
-*(Note: The main domain www.hedge-analytics.com appears to be currently inactive.)*
+* **My professional focusa can be viewed at https://www.hedge-analytics.com 
 
 ## Skills & Expertise
 
