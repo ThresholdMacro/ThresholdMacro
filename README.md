@@ -1,11 +1,4 @@
-## G'day 👋
-
-<!--
-**ThresholdMacro/ThresholdMacro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- # Hi there, I'm Meyrick Chapman 👋
+## Hi there, I'm Meyrick Chapman 👋
 
 ## About Me
 
@@ -39,6 +32,4 @@ Here are some of the web-based financial data applications I have developed:
 * **Market Knowledge:** Specialized knowledge in Repo Markets, Commitment of Traders data, and DTCC clearing data.
 
 ## Contact
-
 You can find more about my professional background on my [LinkedIn Profile](https://www.linkedin.com/in/meyrick-chapman-515a401b9/).
--->
